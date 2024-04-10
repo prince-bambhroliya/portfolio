@@ -18,7 +18,7 @@
 
 
 
-## TL;DR
+
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Prince Bambhroliya](https://github.com/prince-bambhroliya/portfolio). Thanks!
 
